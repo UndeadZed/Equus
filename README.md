@@ -4,4 +4,4 @@
 this project is for training a simulation of an autonomous car using convolutional neural networks
 
 
-# lol
+# Documentation:
