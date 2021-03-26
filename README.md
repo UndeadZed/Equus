@@ -23,14 +23,14 @@ then select the (Simulation_data) folder then run the [training.py](https://gith
 
 this model is based on Nvidia's End-to-End Deep Learning for Self-Driving Cars which you can check from [here](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/)
 
-this was also inspired by [Murtaza Hassan's](https://github.com/murtazahassan/Neural-Networks-Self-Driving-Car-Raspberry-Pi) project on the same topic
+this was also inspired by [Murtaza Hassan's](https://github.com/murtazahassan/Neural-Networks-Self-Driving-Car-Raspberry-Pi) project on a similar subject
 
 # Screenshots
 I tested it in 2 maps to see how well the model generalized
 
 [![Screenshot-1.png](https://i.postimg.cc/C5CBnQX6/Screenshot-3.png)](https://postimg.cc/sGXDtwVp)
 
-Aparently it did generalize well although it wasn't as good as it was in the initial map
+Apparently it did generalize well although it wasn't as good as it was in the initial map
 
 [![Screenshot-2.png](https://i.postimg.cc/wvXTws21/Screenshot-4.png)](https://postimg.cc/ftbNLy6s)
 
