@@ -16,6 +16,9 @@ it is also very important that you have all the required libraries and that you 
 
 # How to Use
 
+after extracting the simulation in the same file as the project create an empty file which you should name (Simulation_data) then run the simulation and select the Training mode
+then select the (Simulation_data) folder then run the (training.py) file notice that this will take some time as it trains your model afterwards you'll see a file in the same directory by the name (Alastor.h5) this is your model so you only have to run the (training.py) once then open the simulation and select the map and select autonomous mode then run the (Test_model.py) file which should run the simulation autonomously
+
 # Credits
 
 this model is based on Nvidia's End-to-End Deep Learning for Self-Driving Cars which you can check from [here](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/)
@@ -23,7 +26,12 @@ this model is based on Nvidia's End-to-End Deep Learning for Self-Driving Cars w
 this was also inspired by [Murtaza Hassan's](https://github.com/murtazahassan) project on the same topic
 
 # Screenshots
+I tested it in 2 maps to see how well the model generalized
+
 [![Screenshot-1.png](https://i.postimg.cc/C5CBnQX6/Screenshot-3.png)](https://postimg.cc/sGXDtwVp)
+
+[![Screenshot-2.png](https://i.postimg.cc/wvXTws21/Screenshot-4.png)](https://postimg.cc/ftbNLy6s)
+
 
 # Future updates
 
