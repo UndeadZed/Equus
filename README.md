@@ -6,5 +6,5 @@ this project is for generating a model of an autonomous car in a Udacity's car s
 
 # Motivation
 
-I made this project because I was bored and I had nothing better to do
+I made this project because I was bored and I had nothing better to do [README](https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file)
 
