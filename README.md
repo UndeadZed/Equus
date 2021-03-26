@@ -6,7 +6,7 @@ this project is for generating a model of an autonomous car in a Udacity's car s
 
 # Motivation
 
-I made this project because I was bored and I had nothing better to do
+I honestly started this project because I was bored and I had nothing better to do
 
 # Requirements
 
@@ -24,6 +24,7 @@ this was also inspired by [Murtaza Hassan's](https://github.com/murtazahassan) p
 
 
 
+
 # Final notes
 
-for any problems you find you can contact me via [e-mail](pa66553@outlook.com) or contact me directly on github
+for any problems you find you can contact me directly on github
