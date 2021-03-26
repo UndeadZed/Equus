@@ -6,7 +6,7 @@ this project is for generating a model of an autonomous car in a Udacity's car s
 
 # Motivation
 
-I honestly started this project because I was bored and I had nothing better to do
+I started this project to learn more about automation, simulation and neural networks
 
 # Requirements
 
@@ -23,7 +23,7 @@ then select the (Simulation_data) folder then run the [training.py](https://gith
 
 this model is based on Nvidia's End-to-End Deep Learning for Self-Driving Cars which you can check from [here](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/)
 
-this was also inspired by [Murtaza Hassan's](https://github.com/murtazahassan) project on the same topic
+this was also inspired by [Murtaza Hassan's](https://github.com/murtazahassan/Neural-Networks-Self-Driving-Car-Raspberry-Pi) project on the same topic
 
 # Screenshots
 I tested it in 2 maps to see how well the model generalized
