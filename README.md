@@ -14,6 +14,8 @@ for this version you need to install the [udacity/self-driving-sim](https://gith
 
 it is also very important that you have all the required libraries and that you install the simulation in the same directory as the code file
 
+# How to Use
+
 # Credits
 
 this model is based on Nvidia's End-to-End Deep Learning for Self-Driving Cars which you can check from [here](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/)
@@ -21,9 +23,11 @@ this model is based on Nvidia's End-to-End Deep Learning for Self-Driving Cars w
 this was also inspired by [Murtaza Hassan's](https://github.com/murtazahassan) project on the same topic
 
 # Screenshots
+[![Screenshot-1.png](https://i.postimg.cc/C5CBnQX6/Screenshot-3.png)](https://postimg.cc/sGXDtwVp)
 
+# Future updates
 
-
+The next version will use [CARLA Simulator](https://carla.org/) and will have a more updated and specific architecture for the model that it generates which will hopefully produce better predictions and results
 
 # Final notes
 
