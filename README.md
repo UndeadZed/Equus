@@ -17,7 +17,7 @@ it is also very important that you have all the required libraries and that you 
 # How to Use
 
 after extracting the simulation in the same file as the project create an empty file which you should name (Simulation_data) then run the simulation and select the Training mode
-then select the (Simulation_data) folder then run the [training.py](https://github.com/UndeadZed/Equus/blob/main/git-Equus/training.py) file notice that this will take some time as it trains your model afterwards you'll see a file in the same directory by the name (Alastor.h5) this is your model so you only have to run the [training.py](https://github.com/UndeadZed/Equus/blob/main/git-Equus/training.py) once then open the simulation and select the map and select autonomous mode then run the (Test_model.py) file which should run the simulation autonomously
+then select the (Simulation_data) folder then run the [training.py](https://github.com/UndeadZed/Equus/blob/main/git-Equus/training.py) file notice that this will take some time as it trains your model afterwards you'll see a file in the same directory by the name (Alastor.h5) this is your model so you only have to run the [training.py](https://github.com/UndeadZed/Equus/blob/main/git-Equus/training.py) once then open the simulation and select the map and select autonomous mode then run the [Test_model.py](https://github.com/UndeadZed/Equus/blob/main/git-Equus/Test_model.py) file which should run the simulation autonomously
 
 # Credits
 
