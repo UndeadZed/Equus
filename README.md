@@ -1,7 +1,10 @@
 # Project_Equus
 
 
-this project is for training an autonomous car in a simulation using convolutional neural networks
+this project is for generating a model of an autonomous car in a Udacity's car simulation using convolutional neural networks
 
 
-# Documentation:
+# Motivation
+
+I made this project because I was bored and I had nothing better to do
+
