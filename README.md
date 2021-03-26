@@ -44,8 +44,3 @@ The next version will use [CARLA Simulator](https://carla.org/) and will have a 
 
 note: you can expect the next version to be out by may 2021
 
-# Final notes
-
-for any problems you find you can contact me directly on github
-
-Also I'm a beginner at best so any modifications or notes are very welcomed
