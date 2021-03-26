@@ -30,12 +30,19 @@ I tested it in 2 maps to see how well the model generalized
 
 [![Screenshot-1.png](https://i.postimg.cc/C5CBnQX6/Screenshot-3.png)](https://postimg.cc/sGXDtwVp)
 
+Aparently it did generalize well although it wasn't as good as it was in the initial map
+
 [![Screenshot-2.png](https://i.postimg.cc/wvXTws21/Screenshot-4.png)](https://postimg.cc/ftbNLy6s)
+
+# Limitations
+this project can only work on Udacity's simulation and cannot be used for real Autonomous Cars
 
 
 # Future updates
 
 The next version will use [CARLA Simulator](https://carla.org/) and will have a more updated and specific architecture for the model that it generates which will hopefully produce better predictions and results
+
+note: you can expect the next version to be out by may 2021
 
 # Final notes
 
