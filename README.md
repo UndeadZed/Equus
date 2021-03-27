@@ -12,7 +12,7 @@ I started this project to learn more about automation, simulation and neural net
 
 for this version you need to install the [udacity/self-driving-sim](https://github.com/udacity/self-driving-car-sim) it is also recommended that you install version 2 since it is the version that I have used for this project
 
-it is also very important that you have all the [required libraries](https://github.com/UndeadZed/Equus/blob/main/git-Equus/requirements.txt) and that you install the simulation in the same directory as the code file
+it is also very important that you have all the [required libraries](https://github.com/UndeadZed/Equus/blob/main/requirements.txt) and that you install the simulation in the same directory as the code file
 
 # How to Use
 
