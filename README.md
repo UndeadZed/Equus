@@ -38,13 +38,15 @@ Apparently it did generalize well although it wasn't as good as it was in the in
 this project can only work on Udacity's simulation and cannot be used for real Autonomous Cars
 
 
-# Carla Self driving car Simulation
-
-Please note that this part is for the [CARLA Simulator](https://carla.org/)
-
 # What's new
 
 I have started working on the [CARLA Simulator](https://carla.org/) but it might take some time to finish because of all the exams and stuff
+
+
+# [Carla Self driving car Simulation Project](https://github.com/UndeadZed/Equus/tree/main/git-Equus%20(CARLA)) 
+
+check this out if you're looking for the CARLA Simulation Project
+
 
 # Future updates
 
