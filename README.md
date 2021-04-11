@@ -8,6 +8,10 @@ this project is for generating a model of an autonomous car in a Udacity's car s
 
 I started this project to learn more about automation, simulation and neural networks
 
+# Udacity Self driving sim
+
+Please note that this part is for the [udacity/self-driving-sim](https://github.com/udacity/self-driving-car-sim)
+
 # Requirements
 
 for this version you need to install the [udacity/self-driving-sim](https://github.com/udacity/self-driving-car-sim) it is also recommended that you install version 2 since it is the version that I have used for this project
@@ -38,9 +42,17 @@ Apparently it did generalize well although it wasn't as good as it was in the in
 this project can only work on Udacity's simulation and cannot be used for real Autonomous Cars
 
 
+# Carla Self driving car Simulation
+
+Please note that this part is for the [CARLA Simulator](https://carla.org/)
+
+# What's new
+
+I have started working on the [CARLA Simulator](https://carla.org/) but it might take some time to finish because of all the exams and stuff
+
 # Future updates
 
 The next version will use [CARLA Simulator](https://carla.org/) and will have a more updated and specific architecture for the model that it generates which will hopefully produce better predictions and results
 
-note: you can expect the next version to be out by June 2021 because of all the exams and stuff
+note: you can expect the next version to be out by late April 2021
 
