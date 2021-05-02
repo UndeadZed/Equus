@@ -27,5 +27,5 @@ there are currently no requiremnts as the project is still in development
  
  # Time until Project is finished
  
- roughly 15-30 days from today Sunday, April 11, 2021
+ Due to some technical and personal issues the project will be delayed till late July
  
