@@ -53,5 +53,5 @@ check this out if you're looking for the CARLA Simulation Project
 The next version will use [CARLA Simulator](https://carla.org/) and will have a more updated and specific architecture for the model that it generates which will hopefully produce better predictions and results
 
 # Announcement
-Due to some technical and personal issues the project will be delayed till late July
+Due to some technical and personal issues the project will be delayed for a while
 
